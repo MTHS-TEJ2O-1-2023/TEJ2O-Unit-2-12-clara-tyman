@@ -1,6 +1,6 @@
 /* Copyright (c) 2020 MTHS All rights reserved
  *
- * Created by: Clara 
+ * Created by: Clara         
  * Created on: Oct 2023
  * This program makes neopixels change color depending on the distance
 */
